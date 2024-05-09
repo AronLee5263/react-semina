@@ -1,6 +1,6 @@
 import "./App.css";
 
-function App() {
+function ComponentTest() {
   return (
     <div>
       <header>
@@ -31,4 +31,4 @@ function App() {
   );
 }
 
-export default App;
+export default ComponentTest;
